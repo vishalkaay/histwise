@@ -1,0 +1,5 @@
+/histwise
+/histwise.exe
+/dist/
+*.out
+*.test
